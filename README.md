@@ -1,3 +1,7 @@
+# QRCode Reader
+
+With this project, you should be abble to generate a QRCode for any website link you want.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
